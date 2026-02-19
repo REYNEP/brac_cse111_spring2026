@@ -1,0 +1,16 @@
+Write a java program that will take a String from the user and count and print how many uppercase, lowercase and digits are present in the String. 
+
+Hello123
+ch = 'H'
+
+Write a java program that will create an N sized integer array by taking N values from the user. Then replace the positive numbers with 0 and negative numbers with -1. 
+Finally print the updated array. 
+
+0 -1 -1 0 0
+[0, -1, -1, 0, 0]
+
+
+
+int arr [] = {23, 56, -23, 11, 44}
+
+You are given an integer array. You have to create two new arrays where all the even numbers of the given array will be stored in the first new array and all the odd numbers of the given array will be stored in the second new array. Finally print the new arrays. [Your code should work for any given array of integer type.] 

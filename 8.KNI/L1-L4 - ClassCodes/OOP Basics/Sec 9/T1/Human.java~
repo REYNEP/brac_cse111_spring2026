@@ -1,0 +1,4 @@
+public class Human{  
+  public String name = "Ali";//instance variable
+  public int nID = 123; //instance variable
+}

@@ -1,0 +1,16 @@
+public class CSECourse{
+  
+  public String courseName;
+  public String courseCode;
+  public int credit;
+  
+}
+  
+public static returnType methodName(parameters ..){
+  
+  //Body
+  
+}
+methodName()
+  
+  
